@@ -1,1 +1,3 @@
-#hola
+import funciones as puto
+
+puto.inversa([[]])
