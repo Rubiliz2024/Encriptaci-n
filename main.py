@@ -1,3 +1,3 @@
-import funciones as puto
+import funciones as f
 
-puto.inversa([[]])
+f.inversa([[]])
